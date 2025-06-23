@@ -9,15 +9,23 @@ Home Page:
 
 ![Screenshot (37)](https://github.com/user-attachments/assets/d3b604cf-2213-443a-bf85-3c4c500f0fd9)
 
-Create Nft:
+
+Create NFT:
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/77af994f-eb75-47fd-8812-eae268548bc9)
 
 
-
-List Nft:
+List NFT:
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/43c368bc-e853-4e50-b30d-c61fe94d7c16)
+
+Transfer Nft:
+
+![Screenshot (92)](https://github.com/user-attachments/assets/fb49ead4-39d2-4d47-a2c9-d592c8697af2)
+
+Popular NFTs:
+
+![Screenshot (94)](https://github.com/user-attachments/assets/91781470-dc6f-4b2c-9cfc-0d692a75dc7e)
 
 
 #### Install Vs Code Editor
