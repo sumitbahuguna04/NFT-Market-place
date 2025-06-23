@@ -3,7 +3,21 @@
 Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.js, Context API, and Metaplex
 
 
-## Project Overview
+## Project Preview:
+
+Home Page:
+
+![Screenshot (37)](https://github.com/user-attachments/assets/d3b604cf-2213-443a-bf85-3c4c500f0fd9)
+
+Create Nft:
+
+![Screenshot (38)](https://github.com/user-attachments/assets/77af994f-eb75-47fd-8812-eae268548bc9)
+
+
+
+List Nft:
+
+![Screenshot (42)](https://github.com/user-attachments/assets/43c368bc-e853-4e50-b30d-c61fe94d7c16)
 
 
 #### Install Vs Code Editor
