@@ -2,6 +2,9 @@
 
 Build and Deploy a Full-Stack Solana Blockchain NFT Marketplace DApp with Next.js, Context API, and Metaplex
 
+## Live Link: 
+
+https://nft-market-place-1fh2.vercel.app/
 
 ## Project Preview:
 
